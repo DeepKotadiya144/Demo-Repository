@@ -2,7 +2,7 @@
 To learn different techniques to encode the categorical features to numeric quantities
 # Introduction
 The aim of this is to explore various techniques for converting categorical features into numeric values. To keep things uncomplicated, we'll apply these encoding methods to just one column. Nevertheless, the same methodology can be extended to all columns if needed.
-#Prerequisits
+# Prerequisits
 This code imports essential Python libraries for data manipulation and visualization: NumPy for numerical operations, pandas for data handling, and matplotlib.pyplot for plotting functionalities.
 # Replacing Values
 We can begin with a straightforward approach by substituting the categories with specific numbers. This can be done using the replace() function within the pandas library. The concept here is that you're free to select any numerical values that align with the business requirements for each category.
