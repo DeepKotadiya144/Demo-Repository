@@ -8,3 +8,10 @@ We can begin with a straightforward approach by substituting the categories with
 Another method involves using "label encoding" to encode categorical values. With this technique, each value in a column is converted into a numerical label. These numerical labels typically range from 0 to n_categories-1, where n_categories represents the total number of unique categories in the column.
 # One-Hot encoding
 This Python code snippet utilizes One-Hot encoding to convert categorical "fuel-type" data into binary columns. Dummy variables are created, merged with the original DataFrame, and displayed without the original column.
+# Author
+https://github.com/DeepKotadiya144
+# Licence
+open source
+#Acknowledgement
+This file is taken from the one of the lab that was given to us from the professor.
+Template for README.md obtained from PurpleBooth
