@@ -14,6 +14,6 @@ This Python code snippet utilizes One-Hot encoding to convert categorical "fuel-
 https://github.com/DeepKotadiya144
 # Licence
 open source
-#Acknowledgement
+# Acknowledgement
 This file is taken from the one of the lab that was given to us from the professor.
 Template for README.md obtained from PurpleBooth
